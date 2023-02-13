@@ -1,0 +1,22 @@
+[
+  {
+      "id": 1,
+      "type": "WINDOWS"
+  },
+  {
+      "id": 2,
+      "type": "MAC"
+  },
+  {
+      "id": 3,
+      "type": "LINUX"
+  },
+  {
+      "id": 4,
+      "type": "WINDOWS SERVER"
+  },
+  {
+      "id": 5,
+      "type": "WINDOWS WORKSTATION"
+  }
+]

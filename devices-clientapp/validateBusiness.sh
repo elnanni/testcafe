@@ -1,0 +1,1 @@
+./node_modules/.bin/cucumber-js ./test/bdd/features/design.feature
